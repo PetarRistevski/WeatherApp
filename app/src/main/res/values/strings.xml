@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="default_location"></string>
+    <string name="default_temp">/</string>
+    <string name="change_city_description">Променете го моменталниот град</string>
+    <string name="weather_description">.</string>
+    <string name="back_button_description">Откажи</string>
+    <string name="get_weather">Променете го моменталниот град</string>
+    <string name="default_query">Внесете име на град</string>
+
+</resources>
